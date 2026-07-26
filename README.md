@@ -129,6 +129,8 @@ Digital-Wellbeing/
 │
 ├── Digital Wellbeing.pbix
 ├── Digital Wellbeing Data.csv
+├── Digital Wellbeing Report.pdf
+├── Digital Wellbeing Ppt.pptx
 ├── README.md
 ├── requirements.txt
 └── images/
