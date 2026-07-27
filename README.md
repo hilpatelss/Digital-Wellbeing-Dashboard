@@ -125,7 +125,7 @@ The dataset contains digital wellbeing information such as:
 ## Project Structure
 
 ```
-Digital-Wellbeing/
+Digital-Wellbeing-Dashboard/
 │
 ├── Digital Wellbeing.pbix
 ├── Digital Wellbeing Data.csv
@@ -170,14 +170,20 @@ Digital-Wellbeing/
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Hil Patel**
 
-Data Analytics Project
+Data Analytics | Power BI | Python | SQL | Excel
+
+GitHub: https://github.com/hilpatelss
+
+LinkedIn: https://linkedin.com/in/hilpatelss
 
 ---
 
 ## License
 
 This project is intended for educational and portfolio purposes.
+
+## ⭐ If you found this project useful, consider giving it a Star.
